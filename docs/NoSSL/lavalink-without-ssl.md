@@ -15,7 +15,7 @@ Password : "glasshost1984"
 Secure : false
 ```
 
-Hosted by @ [Akshat](https://akshatmehta.com)
+Hosted by @ [Incolnx](https://incolnx.com)
 ```bash
 Host : nodepanel.incolnx.com
 Port : 1101
